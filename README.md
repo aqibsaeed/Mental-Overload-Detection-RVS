@@ -1,4 +1,4 @@
-### Mental-Overload-Detection-RVS
+### Mental Overload Detection with Respiration Variability Spectrogram
 
 <p>
 <a href="https://github.com/aqibsaeed/Mental-Overload-Detection-RVS/blob/master/Mental%20Overload%20Detection%20with%20Respiration%20Variability%20Spectrogram.ipynb">Python notebook</a> for blog post <a href="http://aqibsaeed.github.io/2018-01-19-mental-overload-detection-with-respiration-variability-spectrogram/">Mental Overload Detection with Respiration Variability Spectrogram</a>.
