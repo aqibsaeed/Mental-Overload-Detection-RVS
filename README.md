@@ -16,5 +16,3 @@ Python 3 is used during development and following libraries are required to run 
 The DeepBreath dataset used for model training and testing, can be downloaded from the following [link](
 http://youngjuncho.com/datasets/).
 
-
-<i>Note: If you see mistakes or want to suggest changes, please submit a pull request.</i>
